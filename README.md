@@ -1,7 +1,7 @@
 # Introduction to Docker
 
 ## Slides
-https://github.com/NibbleAndBits/tree/master/DockerIntro.pdf
+https://github.com/NibbleAndBits/learn-docker/blob/master/DockerIntro.pdf
 
 ## References
 
