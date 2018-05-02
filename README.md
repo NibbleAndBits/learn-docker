@@ -7,12 +7,12 @@
 
 Start a REPL with latest version default
 ```console
-$ docker run --cap-add sys_ptrace -it --rm swift swift
+$ docker run --cap-add sys_ptrace -it --rm --privileged=true swift swift
 ```
 
 Start a REPL with a version 3.1, 4.0, 4.1... Example shows 4.1.
 ```console
-$ docker run --cap-add sys_ptrace -it --rm swift:4.1 swift
+$ docker run --cap-add sys_ptrace -it --rm --privileged=true swift:4.1 swift
 ```
 
 Pull the Docker Image From Docker Hub:
