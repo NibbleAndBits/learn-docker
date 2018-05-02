@@ -3,7 +3,7 @@
 ## Slides
 [PDF](https://github.com/NibbleAndBits/learn-docker/blob/master/DockerIntro.pdf)
 
-## Swift Language Images
+## Swift Language
 
 Start a REPL with latest version default
 ```console
@@ -38,6 +38,28 @@ and then attach it
 ```console
 $ docker attach swiftfun
 ```
+
+## Android SDK 
+
+Start a container and open the shell
+
+```console
+$ docker run -it thedrhax/android-sdk bash
+```
+
+Build the project in current directory
+
+```console
+$ docker run -it -v $(pwd):/home/user/project -w /home/user/project -u $(id -u):$(id -g) thedrhax/android-sdk gradle build
+```
+
+Persistent Android SDK and caches
+
+-v android-sdk:/home/user/android-sdk-linux
+
+-v gradle-cache:/home/user/.gradle
+
+-v android-cache:/home/user/.android
 
 ## References
 
