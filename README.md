@@ -5,24 +5,18 @@
 
 ## References
 
-### Install Docker CE (Mac)
-https://store.docker.com/search?type=edition&offering=community
+[Mac Install Docker CE](https://store.docker.com/search?type=edition&offering=community)
 
-### Kitematic
-https://kitematic.com/
+[Kitematic](https://kitematic.com/)
 
-### Awesome Docker
-https://github.com/veggiemonk/awesome-docker
+[Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 
-https://stackify.com/top-docker-tools/
+[Top Docker Tools](https://stackify.com/top-docker-tools/)
 
-### Docker Hub
-https://hub.docker.com/
+[Docker Hub](https://hub.docker.com/)
 
-### Dockerfile
-https://docs.docker.com/engine/reference/builder/
+[Dockerfile](https://docs.docker.com/engine/reference/builder/)
 
-### Custom Containers
-https://github.com/jenkinsci/docker/blob/master/Dockerfile
+[Custom Containers](https://github.com/jenkinsci/docker/blob/master/Dockerfile)
 
-https://www.jetbrains.com/help/idea/running-a-java-app-in-a-container.html
+[Java Container Example](https://www.jetbrains.com/help/idea/running-a-java-app-in-a-container.html)
