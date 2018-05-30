@@ -1,7 +1,7 @@
 # Introduction to Docker
 
 ## Slides
-[PDF](https://github.com/NibbleAndBits/learn-docker/blob/master/DockerIntro.pdf)
+![PDF](https://github.com/NibbleAndBits/learn-docker/blob/master/DockerIntro.pdf)
 
 ## Swift Language
 
